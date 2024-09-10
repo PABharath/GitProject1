@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-08T21:22:33 IST" name="Suite" finished-at="2024-09-08T21:23:19 IST" duration-ms="45388">
+    <groups>
+    </groups>
+    <test started-at="2024-09-08T21:22:33 IST" name="Test" finished-at="2024-09-08T21:23:19 IST" duration-ms="45388">
+      <class name="gitRepo.Bharath1">
+        <test-method signature="om()[pri:0, instance:gitRepo.Bharath1@3c7f66c4]" started-at="2024-09-08T21:23:02 IST" name="om" finished-at="2024-09-08T21:23:19 IST" duration-ms="17204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- om -->
+      </class> <!-- gitRepo.Bharath1 -->
+      <class name="gitRepo.Login">
+        <test-method signature="siva()[pri:0, instance:gitRepo.Login@306e95ec]" started-at="2024-09-08T21:22:33 IST" name="siva" finished-at="2024-09-08T21:23:02 IST" duration-ms="28133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siva -->
+      </class> <!-- gitRepo.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
