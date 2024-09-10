@@ -56,7 +56,7 @@ public class Login {
 	}
 	
 	driver.findElement(By.xpath("//ul[@class='navbar-nav ml-auto']/li/a")).click();
-	 driver.findElement(By.cssSelector(".btn.btn-success")).click();
+
 	}
 
 }
