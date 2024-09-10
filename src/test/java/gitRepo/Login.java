@@ -15,8 +15,8 @@ import org.testng.annotations.Test;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Login {
-	@Test
-	public void siva() throws InterruptedException {
+	
+	public static void main(String[] args) throws InterruptedException {
 		WebDriverManager.chromedriver().setup();
 		
 		WebDriver driver=new ChromeDriver();
